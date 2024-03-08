@@ -1,0 +1,10 @@
+words=[
+"mercury",
+"january",
+"summer",
+"cotton",
+"spider",
+"donut",
+"jackfruit",
+"marvel"
+]
